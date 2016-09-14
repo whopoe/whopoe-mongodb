@@ -1,8 +1,8 @@
 {
-    "name": "jenssegers/mongodb",
-    "description": "A MongoDB based Eloquent model and Query builder for Laravel 4",
+    "name": "whopoe/mongodb",
+    "description": "An improved version of  MongoDB based Eloquent model and Query builder for Laravel 5 by Jens Segers",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model"],
-    "homepage": "https://github.com/jenssegers/laravel-mongodb",
+    "homepage": "https://github.com/whopoe/whopoe-mongodb",
     "authors": [
         {
             "name": "Jens Segers",
